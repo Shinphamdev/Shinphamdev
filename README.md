@@ -1,4 +1,4 @@
-<h2 align="center"> Hello World ! I'm Shin Pham</h2>
+<h2 align="center"> Hello World ! I'm Mr Ciphers</h2>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 <p align="center">
   An algorithm is like finding a name in a city directory.
